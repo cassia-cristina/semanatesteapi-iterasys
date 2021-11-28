@@ -1,0 +1,18 @@
+{
+  "id": 12311121986,
+  "category": {
+    "id": 1,
+    "name": "dogs"
+  },
+  "name": "bilu",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "testeapi"
+    }
+  ],
+  "status": "available"
+}
